@@ -6,5 +6,5 @@
   "buy": 432000000,
   "cats": 74,
   "users": [],
-  "link": "https://dashboard.heroku.com/apps/botkotov"
+  "link": "https://botkotov.herokuapp.com/"
 }
