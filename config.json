@@ -1,10 +1,10 @@
 {
-  "id": 241633316,
-  "ns": "Ярослав Братишкин",
-  "token": "326da0b2522b410fc493fca86104923bcd0b2be7c17ab6701e055b339b3e61b9b706d2514f42308bd5f35",
-  "delay": 342000,
+  "id": 313983434,
+  "ns": "Никита Тупиков",
+  "token": "11d33066113c4ee3bc062e3a4eac0ac62bd72f2da856dd32cb8a06425b456980fd695ca120356a9b58483",
+  "delay": 600000,
   "buy": 432000000,
-  "cats": 74,
+  "cats": 3,
   "users": [],
-  "link": "https://botkotov.herokuapp.com/"
+  "link": "https://botkotov2.herokuapp.com/"
 }
